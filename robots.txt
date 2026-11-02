@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://suter.hairdressing-history.org/sitemap.xml
